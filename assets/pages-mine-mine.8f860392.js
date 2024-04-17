@@ -1,0 +1,1 @@
+import{_ as a,b as s,e as t,w as e,l as n,f as r,p as o}from"./index-bd0a08d3.js";const u=a({data:()=>({})},[["render",function(a,u,d,f,l,c){const i=o("UserAuth"),p=n;return s(),t(p,null,{default:e((()=>[r(i)])),_:1})}]]);export{u as default};
